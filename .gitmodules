@@ -1,6 +1,6 @@
-[submodule "RepoFront"]
-	path = RepoFront
+[submodule "Prueba-Tecnica-Rick-and-Morty-Frontend"]
+	path = Prueba-Tecnica-Rick-and-Morty-Frontend
 	url = https://github.com/JHurtadoS/Prueba-Tecnica-Rick-and-Morty-Frontend.git
-[submodule "RepoFront"]
-	path = RepoBack
+[submodule "Prueba-Tecnica-Rick-and-Morty-Back"]
+	path = Prueba-Tecnica-Rick-and-Morty-Back
 	url = https://github.com/JHurtadoS/Prueba-Tecnica-Rick-and-Morty-Back.git
